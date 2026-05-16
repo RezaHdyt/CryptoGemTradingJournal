@@ -1,2 +1,2 @@
 # CryptoGemTradingJournal
-Joural Trading CryptoGem - Melacak performa trading futures crypto
+Journal Trading CryptoGem - Melacak performa trading futures crypto
